@@ -1,19 +1,19 @@
 <h1 align="center">
      📰
-SITE DE RELACINAMENTOS
+FACEBOOK
 
 </h1>
 
 <h5 align="center">
-  PAGINA INICIAL DE UM SITE DE ENCONTROS FEITA COM HTML E CSS
+  CLONE DA PAGINA INICIAL DO FACEBOOK FEITO COM HTMLL CSS
   </h5>
 
 ## 🖥 Antevisão 
-<img src="https://github.com/gfranca11/reecontow/blob/main/Anima%C3%A7%C3%A3o.gif">
+<img src="https://github.com/gfranca11/face/blob/main/%20F.gif">
  
  📌 Ajustes e melhorias
  
- - [ ] ADICIONAR JAVASCRIPT
+ - [ ] ADICIONAR VALIDAÇAO COM JAVASCRIPT
  
 
  
@@ -22,8 +22,8 @@ SITE DE RELACINAMENTOS
  
  > Clone o repositório e de sua estrelinha ;]
    
-        $ git clone https://github.com/gfranca11/reecontow
-        $ cd reecontow
+        $ git clone https://github.com/gfranca11/face
+        $ cd face
         
  
  
